@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WinifredEc
+- 👋 Hi, I’m @Winifred
 - 👀 I’m interested in FrontEnd 
 - 🌱 I’m currently learning FrontEnd dev
 - 💞️ I’m looking to collaborate on ...
