@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Winifred
-- 👀 I’m interested in FrontEnd 
-- 🌱 I’m currently learning FrontEnd dev
+- 👀 I’m a Front End dev focused on creating a functional web experience to drive user growth and engagements
+- 🌱 I’m currently learning Git and Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Winifred.e.c@gmail.com 
 
